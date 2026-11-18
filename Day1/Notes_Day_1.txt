@@ -1,0 +1,23 @@
+
+---------------------------------------
+
+NOTES AND THOUGHTS : Day 1
+
+---------------------------------------
+
+# Topics Covered: 
+
+1. Print and Indentation Syntax
+2. "strings" and inputting them
+3. Variables 
+
+
+The exercises were straightforward, and the final program "band name generator" was 
+rather simple as well. 
+
+
+-----------------------------------------
+
+Day one completed on : 18 November 2026
+
+-----------------------------------------
